@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 964d5d7cead9a8c499dbf569b75d78c1
+timeCreated: 1539302929
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HYTaiJiJ
+  fontNames:
+  - HYTaiJiJ
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
